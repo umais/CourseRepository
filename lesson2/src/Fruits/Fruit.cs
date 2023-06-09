@@ -4,6 +4,7 @@ public class Fruit{
  private string Name{get;set;}
 
  public double GetPrice(){
+    
     return Price;
  }
 
