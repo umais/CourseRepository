@@ -1,0 +1,15 @@
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\bin\Debug\net6.0\Fruits.exe
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\bin\Debug\net6.0\Fruits.deps.json
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\bin\Debug\net6.0\Fruits.runtimeconfig.json
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\bin\Debug\net6.0\Fruits.dll
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\bin\Debug\net6.0\Fruits.pdb
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\Fruits.csproj.AssemblyReference.cache
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\Fruits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\Fruits.AssemblyInfoInputs.cache
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\Fruits.AssemblyInfo.cs
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\Fruits.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\Fruits.dll
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\refint\Fruits.dll
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\Fruits.pdb
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\Fruits.genruntimeconfig.cache
+C:\Projects\Dotnet6\Course\lesson2\src\Fruits\obj\Debug\net6.0\ref\Fruits.dll

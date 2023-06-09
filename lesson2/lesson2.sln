@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{86C4ACFD-6591-434B-9AE4-43142FC460B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruits", "src\Fruits\Fruits.csproj", "{472ED41E-09FD-4F1A-8AE4-1C98F20192AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472ED41E-09FD-4F1A-8AE4-1C98F20192AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472ED41E-09FD-4F1A-8AE4-1C98F20192AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472ED41E-09FD-4F1A-8AE4-1C98F20192AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472ED41E-09FD-4F1A-8AE4-1C98F20192AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{472ED41E-09FD-4F1A-8AE4-1C98F20192AC} = {86C4ACFD-6591-434B-9AE4-43142FC460B2}
+	EndGlobalSection
+EndGlobal
