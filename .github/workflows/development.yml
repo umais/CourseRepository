@@ -1,1 +1,17 @@
+name: Let's Code Workflow
 
+on:
+  push:
+    branches:
+      - development
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Print Let's Code message
+        run: echo "Let's Code!"
