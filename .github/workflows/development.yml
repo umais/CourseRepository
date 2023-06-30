@@ -1,4 +1,4 @@
-name: Let's Code Workflow
+name: Build and Run Workflow
 
 on:
   push:
@@ -13,5 +13,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Print Let's Code message
-        run: echo "Let's Code!"
+      - name: Set up .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.0' # Update to the desired .NET version
+
+      - name: Build and Publish
+        run: |
+          cd lesson1
+          dotnet build --configuration Release
+          dotnet publish --configuration Release --output ./publish
+
+      - name: Run the executable
+        run: |
+          cd lesson1/publish
+          dotnet ./lesson1.dll
