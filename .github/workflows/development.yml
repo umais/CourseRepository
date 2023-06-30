@@ -20,11 +20,11 @@ jobs:
 
       - name: Build and Publish
         run: |
-          cd lesson1
+          cd lesson2
           dotnet build --configuration Release
           dotnet publish --configuration Release --output ./publish
 
       - name: Run the executable
         run: |
           cd lesson1/publish
-          dotnet ./lesson1.dll
+          dotnet ./lesson2.dll
