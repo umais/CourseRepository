@@ -27,4 +27,4 @@ jobs:
       - name: Run the executable
         run: |
           cd lesson2/publish
-          dotnet ./lesson2.dll
+          dotnet ./Fruits.dll
